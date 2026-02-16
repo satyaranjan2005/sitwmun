@@ -12,13 +12,13 @@ const judges = [
         name: 'Dr. Simanchal Bag',
         role: 'Asst. Professor',
         description: 'Department of Basic Science, Silicon Institute of Technology, Sambalpur.',
-        image: null
+        image: '/organisers/simanchal.jpeg'
     },
     {
-        name: 'Mrs. Sonalika Mishra',
+        name: 'Dr. Sonalika Mishra',
         role: 'Asst. Professor',
         description: 'Department of Electrical Engineering, Silicon Institute of Technology, Sambalpur.',
-        image: null
+        image: '/organisers/sonalika.jpeg'
     }
 ]
 
