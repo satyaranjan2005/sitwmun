@@ -3,10 +3,10 @@ import React from 'react'
 
 const judges = [
     {
-        name: 'Judge Name 1',
+        name: 'Dr. Himanshu Sekhar Mishra',
         role: 'Chief Judge',
-        description: 'will update soon.',
-        image: null
+        description: 'Asst. Professor, Sambalpur University, Sambalpur.',
+        image: '/organisers/image.png'
     },
     {
         name: 'Dr. Simanchal Bag',
